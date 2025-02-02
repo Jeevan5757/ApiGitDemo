@@ -10,6 +10,7 @@ public class Day34 {
 			i--;
 		}
 		System.out.println("jeevan");
+		System.out.println("muna");
 
 	}
 

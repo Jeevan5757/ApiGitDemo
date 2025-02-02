@@ -60,11 +60,9 @@ public class Day30 {
 //		int sum = Arrays.stream(arr).sum();
 		int sum = Arrays.stream(arr).mapToInt(Integer::intValue).sum();
 		System.out.println(sum);
+		System.out.println("jeevan jyoti behera 2nd user");
 	}
 	
-	public static void secondLargestNumber(Integer[] arr) {
-		int highest = Integer.MAX_VALUE
-	}
 	
 
 }

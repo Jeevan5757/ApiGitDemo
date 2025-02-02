@@ -61,6 +61,7 @@ public class Day30 {
 		int sum = Arrays.stream(arr).mapToInt(Integer::intValue).sum();
 		System.out.println(sum);
 		System.out.println("jeevan jyoti behera 2nd user");
+		System.out.println("Muna 1st user");
 	}
 	
 	

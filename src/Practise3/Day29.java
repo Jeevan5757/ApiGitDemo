@@ -20,6 +20,7 @@ public class Day29 {
 		System.out.println("");
 		System.out.println(onlyOddNumber(ls));
 		System.out.println(removeSpace("jeevan jyoti behera"));
+		System.out.println("hahaha");
 
 	}
 	
@@ -67,6 +68,7 @@ public class Day29 {
 	
 	public static String removeSpace(String name) {
 		return name.replace(" ", "");
+		
 	}
 
 }
